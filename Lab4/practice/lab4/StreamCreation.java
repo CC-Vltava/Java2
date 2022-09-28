@@ -1,4 +1,4 @@
-package tutorial.lab4;
+package practice.lab4.practice.lab4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package practice.lab4;
+package practice.lab4.practice.lab4;
 
 import java.io.IOException;
 
@@ -48,17 +48,17 @@ public class Practice4 {
 
     public static void main(String[] args) throws IOException, URISyntaxException {
 
-        Stream<City> cities = readCities("cities.txt");
+        Stream<City> cities = readCities("practice/lab4/cities.txt");
         // Q1: count how many cities there are for each state
         // TODO: Map<String, Long> cityCountPerState = ...
 
 
-        cities = readCities("cities.txt");
+        cities = readCities("practice/lab4/cities.txt");
         // Q2: count the total population for each state
         // TODO: Map<String, Integer> statePopulation = ...
 
 
-        cities = readCities("cities.txt");
+        cities = readCities("practice/lab4/cities.txt");
         // Q3: for each state, get the set of cities with >500,000 population
         // TODO: Map<String, Set<City>> largeCitiesByState = ...
 
