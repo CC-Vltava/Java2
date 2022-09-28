@@ -1,4 +1,4 @@
-package tutorial.lab2;
+package test;
 
 import java.util.ArrayList;
 import java.util.HashMap;

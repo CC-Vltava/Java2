@@ -1,4 +1,4 @@
-package practice.lab2;
+package test;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.runner.Runner;
@@ -32,9 +32,13 @@ public class Practice2 {
             index = new Random().nextInt(LENGTH) + OFFSET;
 
             for(int i = OFFSET; i<OFFSET+LENGTH;i++){
-                int age = new Random().nextInt(18,22);
+                int age = new Random().nextInt(5) + 17;
                 intmapImpl.put(i, age);
                 // TODO: initialize arrayImpl, arraylistImpl and linkedlistImpl
+                arrayImpl[i - OFFSET] = age;
+                arraylistImpl.add(age);
+                linkedlistImpl.add(age);
+                intmapImpl.put(i - OFFSET, age);
             }
 
         }
@@ -43,30 +47,30 @@ public class Practice2 {
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
-    public static int testintmap(Practice2.MyState state){
+    public static int testintmap(MyState state){
         return state.intmapImpl.get(state.index);
     }
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
-    public static int testarraylist(Practice2.MyState state){
+    public static int testarraylist(MyState state){
         // TODO return the age by state.index
-        return 0;
+        return state.arraylistImpl.get(state.index - state.OFFSET);
     }
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
-    public static int testlinkedlist(Practice2.MyState state){
+    public static int testlinkedlist(MyState state){
         // TODO return the age by state.index
-        return 0;
+        return state.linkedlistImpl.get(state.index - state.OFFSET);
     }
 
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
-    public static int testarray(Practice2.MyState state){
+    public static int testarray(MyState state){
         // TODO return the age by state.index
-        return 0;
+        return state.arrayImpl[state.index - state.OFFSET];
     }
 
 

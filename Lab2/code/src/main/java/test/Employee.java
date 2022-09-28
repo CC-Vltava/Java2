@@ -1,4 +1,5 @@
-package tutorial.lab2;
+package test;
+
 public class Employee {
 
     private Long id;
@@ -25,18 +26,18 @@ public class Employee {
         this.name = name;
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-
-        Employee employee = (Employee) o;
-
-        if (!id.equals(employee.id)) return false;
-        return name.equals(employee.name);
-
-    }
-
+//    @Override
+//    public boolean equals(Object o) {
+//        if (this == o) return true;
+//        if (o == null || getClass() != o.getClass()) return false;
+//
+//        Employee employee = (Employee) o;
+//
+//        if (!id.equals(employee.id)) return false;
+//        return name.equals(employee.name);
+//
+//    }
+//
     @Override
     public int hashCode() {
         int result = id.hashCode();
@@ -46,7 +47,7 @@ public class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "test.Employee{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
