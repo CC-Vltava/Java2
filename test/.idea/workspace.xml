@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ffff9b4-1253-4b3f-8709-3167579e198d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/out/production/Lab4/practice/lab4/Lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/code/src/main/java/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/code/src/main/java/test/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/FunctionalInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/FunctionalInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/Lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/Lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/Practice4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/Practice4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/Practice4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/StreamCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/StreamCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/StreamProcessingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/StreamProcessingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/cities.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/practice/lab4/tutorial.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/tutorial.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2_note.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../java2_note.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FfZkzka3CddPABhI2wMLjNiADu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Stream_">
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapTest" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream_" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="liberica-1.8" />
+      <option name="MAIN_CLASS_NAME" value="lambda" />
+      <module name="test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashMapTest" />
+      <item itemvalue="Application.lambda" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Stream_" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stream_" />
+        <item itemvalue="Application.lambda" />
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ffff9b4-1253-4b3f-8709-3167579e198d" name="Changes" comment="" />
+      <created>1664885246100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664885246100</updated>
+      <workItem from="1664885247263" duration="1488000" />
+      <workItem from="1665450483830" duration="4144000" />
+      <workItem from="1665471212822" duration="6176000" />
+      <workItem from="1665537110150" duration="2614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
